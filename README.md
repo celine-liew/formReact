@@ -1,8 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
+## Description
+sample form created with React under 2 hours. Add, delete and update entries. Sort entries by last name and age.
 
 ### `npm start`
 
